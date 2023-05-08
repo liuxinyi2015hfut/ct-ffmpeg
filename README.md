@@ -1,4 +1,4 @@
-# node-ffmpeg-installer
+# node-ffmpeg-installer(ct-ffmpeg)
 
 Platform independent binary installer of [FFmpeg](https://ffmpeg.org/) for node projects. Useful for tools that should "just work" on multiple environments.
 
